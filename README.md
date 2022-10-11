@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Snoopee
 - 20 years old
 - Video editor for Corporate Clash
-- Current Project: Real (Discord Bot)
+- Current Project: Real (Discord Bot) (Private Repository :))
 - 📫 How to reach me: Discord: Snoopee#4503
 
 <!---
