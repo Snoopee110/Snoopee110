@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Snoopee
 - 20 years old
 - Video editor for Corporate Clash
-- Current Project: Finn (Discord Bot) (Private Repository :))
+- Current Project: Finn (Discord Bot)
 - 📫 How to reach me: Discord: Snoopee#4503
 
 <!---
