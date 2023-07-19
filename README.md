@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Snoopee
-- 20 years old
-- Video editor for Corporate Clash
+- Hi, I’m Snoopee
+- 20 🏳️‍🌈
+- Video Editor + Game Moderator for Corporate Clash
 - Current Project: Finn (Discord Bot)
-- 📫 How to reach me: Discord: Snoopee#4503
+- How to reach me:
+  - Discord: snoopee110
+  - Twitter: snoopee110
 
 <!---
 Snoopee110/Snoopee110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
