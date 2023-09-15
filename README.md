@@ -1,7 +1,7 @@
 - Hi, I’m Snoopee
-- 20 🏳️‍🌈
+- 21 🏳️‍🌈
 - Video Editor + Game Moderator for Corporate Clash
-- Current Project: Finn (Discord Bot)
+- Current Project: (Smallfry)[https://github.com/snoopee110/smallfry] (Discord Moderation Bot)
 - How to reach me:
   - Discord: snoopee110
   - Twitter: snoopee110
