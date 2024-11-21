@@ -1,5 +1,5 @@
 - Hi, I’m Snoopee
-- 21 🏳️‍🌈
+- 22 🏳️‍🌈
 - Video Editor + Game Moderator for Corporate Clash
 - Current Project: [Smallfry](https://github.com/snoopee110/smallfry) (Discord Moderation Bot)
 - How to reach me:
