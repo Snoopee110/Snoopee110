@@ -1,11 +1,11 @@
 - Hi, I’m Snoopee
-- 22 🏳️‍🌈
-- Video Editor, Game Moderator, Cutscene Developer and Bot Developer for Corporate Clash
-- Current Project: [Project Void Edge](https://github.com/snoopee110/project-void-edge)
+- 23 🏳️‍🌈
+- Video Editor, Developer and Moderation Manager for Corporate Clash
+- Current Project: Toontown: Corporate Clash (Class Action update)
 - How to reach me:
   - Discord: snoopee110
   - Twitter: snoopee110
-  - Bluesky: @snoopee.co.uk
+  - Bluesky: @snoopee.dev
 
 <!---
 Snoopee110/Snoopee110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
