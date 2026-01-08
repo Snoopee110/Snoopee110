@@ -4,7 +4,7 @@
 - Current Project: Toontown: Corporate Clash (Class Action update)
 - How to reach me:
   - Discord: snoopee110
-  - Twitter: snoopee110
+  - Twitter: snoopee_tt
   - Bluesky: @snoopee.dev
 
 <!---
