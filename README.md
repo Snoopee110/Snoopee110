@@ -1,6 +1,6 @@
 - Hi, I’m Snoopee
-- 23 🏳️‍🌈
-- Video Editor, Developer and Moderation Manager for Corporate Clash
+- 24 🏳️‍🌈
+- Video Editor, Developer and Community Co-Lead for Corporate Clash
 - Current Project: Toontown: Corporate Clash (Class Action update)
 - How to reach me:
   - Discord: @snoopee110
